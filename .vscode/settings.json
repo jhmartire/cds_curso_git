@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./cds_curso_git"
+    ]
+}
